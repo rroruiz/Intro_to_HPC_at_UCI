@@ -9,7 +9,7 @@ Updated: November 27, 2020
 
 ## Important Notes
 
-- HPC is a shared facility that is transitioning to HPC3. *What does that mean for you?* Beginning January 5, 2020 HPC will be retiring and everyone will have to use HPC3 (please see HPC3 tutorial under lessons). 
+- HPC is a shared facility that is transitioning to HPC3. *What does that mean for you?* **Beginning January 5, 2020 HPC will be retiring and everyone will have to use HPC3 (please see HPC3 tutorial under lessons).** 
 - There are over 2000 users and at any one time there could be 100+ users online so don't use it as your personal machine. 
 - To access HPC you'll have to be using UCI's network (be on campus) or download a VPN client (for off campus connection) following these [instructions](https://www.oit.uci.edu/help/vpn/). 
 - It is not your personal storage hard drive. Once you exceed your limits you will be sent a warning before HPC admins start deleting your files. 

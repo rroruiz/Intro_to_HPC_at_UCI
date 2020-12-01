@@ -1,4 +1,4 @@
-Updated: November 27, 2020
+Updated: November 30, 2020
 
 ## Learning Objectives
 - Connect to HPC3 at UCI

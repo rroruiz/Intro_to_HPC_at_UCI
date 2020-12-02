@@ -9,7 +9,7 @@ Updated: November 30, 2020
 
 ## Overview
 
-- HPC will be retiring on January 5, 2020 and users will migrate to HPC3, which is the next-generation of shared computing at UCI. 
+- HPC will be retiring on January 5, 2021 and users will migrate to HPC3, which is the next-generation of shared computing at UCI. 
 - In the new HPC3, jobs will be classified as:
     1. **Accounted:** time used by a job will be tacked and charged to an account you or your PI is associated with.
     2. **Free:** jobs are free to run but are not given priority and can be killed to make room for accounted jobs. (Personal note: I would only recommend using the free queue for testing code but not to run your job as it can be killed by an accounted job.)
